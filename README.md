@@ -38,9 +38,4 @@ Link to the documentation will be google drive because the pdf files is over 100
 <!-- LICENSE -->
 ## License
 
-Distributed under the Apache 2.0 License. See `LICENSE.txt` for more information.
-
-<!-- CONTACT -->
-## Contact
-
-Adrian Gutierrez - adriangutierrez23@yahoo.com
+Distributed under the Apache 2.0 License. See [LICENSE](https://github.com/agutierrez63/Relational-Database-Project/blob/main/LICENSE) for more information.
